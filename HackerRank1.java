@@ -13,11 +13,11 @@ public class HackerRank1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // System.out.println("term");
+        System.out.println("term");
         int term = sc.nextInt();
-        // System.out.println("a");
+        System.out.println("a");
         int a = sc.nextInt();
-        // System.out.println("b");
+        System.out.println("b");
         int b = sc.nextInt();
 
         int val = 0;
